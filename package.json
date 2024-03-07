@@ -1,0 +1,22 @@
+{
+  "name": "tea",
+  "version": "1.1.4",
+  "description": "tea campaign",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johngre16/tea.git"
+  },
+  "keywords": [
+    "tea"
+  ],
+  "author": "johngre16",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johngre16/tea/issues"
+  },
+  "homepage": "https://github.com/johngre16/tea#readme"
+}
